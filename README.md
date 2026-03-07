@@ -1,22 +1,22 @@
-# 📚 Sistema de Livraria - Java + MySQL
+# Sistema de Livraria - Java + MySQL
 
 Projeto simples de um sistema de livraria desenvolvido em **Java com interface gráfica (GUI)** e **banco de dados MySQL**.
 
-## 🚀 Funcionalidades
+Funcionalidades
 
 * Exibe os livros disponíveis ao iniciar o programa
 * Permite realizar cadastro de usuários
 * Armazena os dados cadastrados no banco de dados MySQL
 * Interface gráfica para interação com o usuário
 
-## 🛠 Tecnologias utilizadas
+Tecnologias utilizadas
 
 * Java
 * Java GUI (Swing)
 * MySQL
 * JDBC
 
-## 📂 Estrutura do Projeto
+Estrutura do Projeto
 
 ```
 src/
@@ -35,11 +35,11 @@ src/
  └── LivrariaPrincipal.java     # Classe principal
 ```
 
-## 🗄 Banco de Dados
+Banco de Dados
 
 O projeto utiliza MySQL para armazenar os dados dos usuários cadastrados.
 
-### Exemplo de tabela
+Exemplo de tabela
 
 ```sql
 CREATE DATABASE livraria;
@@ -82,6 +82,6 @@ String password = "senha";
 
 4. Execute a classe `LivrariaPrincipal.java`.
 
-## 📄 Licença
+## Licença
 
 Este projeto está sob a licença MIT.
