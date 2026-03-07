@@ -61,7 +61,7 @@ Como executar:
 1. Clone o repositório
 
 ```
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/depoot691/Livraria.git
 ```
 
 2. Crie o banco de dados no MySQL.
