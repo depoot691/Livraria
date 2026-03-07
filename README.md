@@ -70,7 +70,7 @@ git clone https://github.com/depoot691/Livraria.git
 3. Configure os dados de conexão na classe:
 
 ```
-ConexaoMySQL.java
+ConexaoMySQL1.java
 ```
 
 Exemplo:
