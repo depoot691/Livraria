@@ -56,7 +56,7 @@ CREATE TABLE usuarios (
 );
 ```
 
-## ▶ Como executar
+Como executar:
 
 1. Clone o repositório
 
