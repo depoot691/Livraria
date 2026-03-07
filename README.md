@@ -51,8 +51,8 @@ CREATE TABLE usuarios (
     nome VARCHAR(100),
     cpf VARCHAR(100),
     endereco VARCHAR(20),
-    idade int NOT NULL,
-    livro varchar(100) NOT NULL
+    idade INT NOT NULL,
+    livro VARCHAR(100) NOT NULL
 );
 ```
 
