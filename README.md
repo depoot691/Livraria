@@ -20,19 +20,20 @@ Estrutura do Projeto
 
 ```
 src/
- ├── model/
+ ├── metodos/
  │    └── CadastroPOJO.java        # Classe POJO
  │
- ├── dao/
+ ├── metodos/
  │    └── CadastroDAO.java     # Operações de comandos SQL 
  │
- ├── connection/
+ ├── BDconexao/
  │    └── ConexaoMySQL1.java   # Classe de conexão com o banco
  │
- ├── view/
+ ├── metodos/
  │    └── Cadastro.java        # Interface gráfica
  │
- └── LivrariaPrincipal.java     # Classe principal
+ ├── dominio/
+      └──LivrariaPrincipal.java     # Classe principal
 ```
 
 Banco de Dados
